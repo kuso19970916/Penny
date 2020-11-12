@@ -1,0 +1,124 @@
+.back{
+  background-image : url( '../image/背景.png' );
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height:100vh;
+}
+.logo{
+  padding-top :60px;
+}
+
+.slogan{
+  font :30px bolder ;
+  font-style: oblique;
+  text-decoration:underline;
+  color:white;
+  font-family:微軟正黑體;
+}
+.btn1{
+  color:	#EA7500;
+  border:2px 	#EA7500 solid;
+  border-radius:10px;
+  background-color:	#141F33;
+  width:120px;
+  height:50px;
+}
+.btn1:hover{
+  border :0;
+  background-color:	#F75000;
+  border-radius:10px;
+  color:#fff;
+  width:120px;
+  height:50px;
+}
+
+/*login*/
+.block{
+    background-image : url( '../image/line.png' );
+    background-size: 100% 100%;
+    height:400px;
+    margin-top:100px;
+}
+.login{
+  font-family :微軟正黑體;
+  font-size : 30px;
+  color:white;
+  position:relative;
+  top:150px;
+}
+.login2{
+  position:relative;
+  top:130px;
+}
+.login_btn{
+  border :0;
+  background-color:	#F75000;
+  border-radius:10px;
+  color:#fff;
+  width:120px;
+  height:50px;
+}
+.reg_btn{
+  color:	#FFF;
+  border:2px #FFF solid;
+  background-color:transparent;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+/*register*/
+.block1{
+    background-image : url( '../image/line.png' );
+    background-size: 100% 100%;
+    height:400px;
+    margin-top:100px;
+}
+.reg{
+  font-family :微軟正黑體;
+  font-size:25px;
+  color:white;
+  position:relative;
+  top:130px;
+}
+
+/*home*/
+.month{
+  color: white;
+  font: bolder;
+  font-size:35px;
+}
+.list{
+  color: white;
+  font-family: 微軟正黑體;
+}
+.list_top{
+  background-color: rgba(255,255,255,0.4);
+}
+hr{
+  background-color: white;
+}
+
+/*QQ*/
+.block_back{
+  background-image : url( '../image/group.png' );
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
+  color: white;
+}
+.block_back h1{
+  color: yellow;
+}
+.income_btn{
+  color:	#FFF;
+  border:2px #FFF solid;
+  background-color:transparent;
+}
+
+.next{
+  position: absolute;
+  bottom: 50px;
+  right: 70px;
+  border-style: none;
+  background-color:transparent;
+  color: white;
+}
